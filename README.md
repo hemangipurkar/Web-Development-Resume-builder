@@ -1,1 +1,3 @@
-# Web-Development-Travel-Website
+# Web-Development-Resume Builder
+A resume summary is an optional section that you can use at the start of your resume. It's useful if you want to direct a recruiter's attention to specific skills or roles you're looking at. Additionally, you can use this section to highlight achievements that are not already in the rest of your resume.
+A resume builder is a crucial component of a resume that highlights a professional's most significant achievements, skills, and experience. It serves as an introduction to the individual's professional brand and is typically placed at the top of the resume. The summary is optional but useful for directing a recruiter's attention to specific skills or roles. It should be concise, customized to career goals and the target role, and use numbers and metrics to describe accomplishments.
